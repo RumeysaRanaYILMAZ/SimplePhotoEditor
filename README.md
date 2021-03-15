@@ -1,6 +1,8 @@
 
 # SimplePhotoEditor
 
+![pp](Screenshot_14.png)
+
 Simple photo editor with skimage, opencv, pillow (sci-kit image,PIL,CV2)
 Clone the repo and install requirements, 
 
